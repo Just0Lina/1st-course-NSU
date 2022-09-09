@@ -1,2 +1,2 @@
 # 1st-course-NSU
-This is first lab-works in NSU
+Лабораторные работы по дисциплине "Программирование" 1 курса ФИТ НГУ
