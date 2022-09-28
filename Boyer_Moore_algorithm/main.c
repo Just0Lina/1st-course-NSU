@@ -67,3 +67,4 @@ void BoyerMoore(int* text, int* pattern, int* moves, int patLen, int textLen) {
     }
   }
 }
+
