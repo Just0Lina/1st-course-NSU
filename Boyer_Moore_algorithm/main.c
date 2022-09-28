@@ -1,3 +1,5 @@
+#include "main.h"
+
 int main(void) {
   lab1_0();
   return EXIT_SUCCESS;
