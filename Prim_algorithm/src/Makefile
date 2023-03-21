@@ -29,7 +29,7 @@ rebuild: clean all
 rrebuild: clean all
 	./main.o
 python:
-	#mv ../../GraphTopologicalSort/cpplint.py cpplint.py
+	#mv ../../Graph_topological_sort/cpplint.py cpplint.py
 	python3 cpplint.py --extensions=c main.c
 
 cppcheck: 
